@@ -1,6 +1,6 @@
 ## 💫 About Me:
-🔭 I'm currently working on next Frontend Mentor challenge.<br>🌱 I'm currently learning CSS Modules.
-
+🔭 I'm currently working on [Frontend Mentor challenges](https://github.com/sz7kow/frontend-mentor-solutions).<br>
+🌱 I'm currently learning CSS Modules.
 
 ## 💻 Tech Stack:
 
@@ -20,7 +20,7 @@
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sz7kow&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sz7kow&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sz7kow&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
